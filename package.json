@@ -1,0 +1,12 @@
+{
+  "name": "javascriptnodeproject",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Practica de JavaScript y Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "faty.abouzerrar23@gmail.com",
+  "license": "ISC"
+}
